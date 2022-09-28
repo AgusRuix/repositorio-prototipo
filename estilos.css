@@ -1,0 +1,61 @@
+:root{
+    background-color: black;
+}
+header{
+    display : flex ;
+    height : 70px ;
+    background-color : black ;
+    justify-content : space-between ;
+    align-items : center ; 
+}
+.logo{
+    justify-content: center;
+}
+.logo img{
+    height: 50px;
+}
+nav{
+    padding: 40px;
+}
+p{
+    font-family: fantasy
+}
+.Entrena{
+    background-color: darkcyan
+}
+.Planes{
+    background-color:darkcyan
+}
+.Empieza{
+    background-color: darkcyan
+}
+.Contactanos{
+    background-color: darkcyan
+}
+.imagen{
+    display : flex ;
+    height : auto ;
+    width : auto ;
+    max-height : 500px;
+    max-width : 200px;
+}
+
+
+.entrena{
+    background-color: blueviolet;
+    
+    width: 600px;
+    height: auto;
+    margin: 50px 40px 200px 50px ; /* top , rigtch  , botton  ,left */
+    border: 5px  double darkslategrey;
+    display: block;
+    font-size: 20px;
+}
+
+.entrena h1{
+    background-color: brown;
+}
+.Entrena h1{
+    color: blue;
+}
+
